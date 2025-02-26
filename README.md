@@ -40,4 +40,4 @@
         <p>&copy; 2025 Weckedisgood Digital Marketing. All rights reserved.</p>
     </footer>
 </body>
-</html>
+</html>cd Davidchinpeter.com
