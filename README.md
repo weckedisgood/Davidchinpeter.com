@@ -43,3 +43,6 @@
 </html>cd Davidchinpeter.com
 <!DOCTYPE html>git clone https://github.com/weckedisgood/Davidchinpeter.com.git
 cd Davidchinpeter.com
+git add index.html
+git commit -m "Add initial content for digital marketing website"
+git push origin main
