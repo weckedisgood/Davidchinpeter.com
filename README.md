@@ -41,4 +41,5 @@
     </footer>
 </body>
 </html>cd Davidchinpeter.com
-<!DOCTYPE html>
+<!DOCTYPE html>git clone https://github.com/weckedisgood/Davidchinpeter.com.git
+cd Davidchinpeter.com
