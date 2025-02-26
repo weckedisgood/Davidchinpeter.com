@@ -33,8 +33,8 @@
     </section>
     <section id="contact">
         <h2>Contact Us</h2>
-        <p>Email: contact@weckedisgood.com</p>
-        <p>Phone: (123) 456-7890</p>
+        <p>Email: contact@wickedzgood@gmail.com.com</p>
+        <p>Phone: (234) 8114626257</p>
     </section>
     <footer>
         <p>&copy; 2025 Weckedisgood Digital Marketing. All rights reserved.</p>
